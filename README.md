@@ -3,7 +3,7 @@ This Project is a Loadcell Based Filament tracker running of a ESP32
 
 ## Planed Features:
 - Loadcell Based Weighting
-- RFID Tag based Management of spools
+- RFID Tag based Management of spools (MIFARE 1k)
 - Integration into Spoolman https://github.com/Donkie/Spoolman
 - I2C Screen for Display of Current Weight on the Spool
 
