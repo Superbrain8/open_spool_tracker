@@ -27,8 +27,13 @@ Its planned to have the RFID tags run standalone from Spoolman in the future, bu
 
 ### Planed Structure of Data
 
-the Data Structure is defined within the Open Spool Tag Standard https://github.com/Superbrain8/Open-Spool-Tag-Standard/tree/main
+the Data Structure is defined within the Open Tag Standard https://github.com/Bambu-Research-Group/RFID-Tag-Guide/blob/main/OpenTag.md
 
 ### Contact
 
 Discord https://discord.gg/vYQKyug5Cv
+
+
+### Changelog
+
+2025.03.09 - Moved standard to open Tag
